@@ -4,7 +4,7 @@ Programming the Monty Hall Problem - probability theory
 I originally saw the Monty Hall Problem explained on Youtube.
 It took a while for me to grasp that there was a conundrum involving the probability of choosing between 3 possibilities which at first seemed to be an obvious no-brainer, but actually was a little more complicated than you might think.
 The following link explains the conundrum.
-https://www.linkedin.com/newsletters/the-uk-careers-fair-weekly-6965279854749437952/
+https://en.wikipedia.org/wiki/Monty_Hall_problem
 
 My aim was to see if I could write a program to validate the theory based on probability.
 I wrote the code in Python. For clarity, the comparison was made between 2 separate actions.
